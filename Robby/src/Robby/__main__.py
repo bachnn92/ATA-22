@@ -1,1 +1,8 @@
-print("Hello, I am Main")
+import core
+
+def main() -> None:
+    core.main()
+    
+main()
+
+
